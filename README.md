@@ -4,8 +4,7 @@
 **Authors:** Greeshma Chanduri, Kamineni Pravalika  
 **Date:** December 2025  
 
-**Paper (camera-ready):** [A_Retrieval_Augmented_...pdf](paper/A_Retrieval_Augmented_Generation_System_for_Diabetes_Education_Using_Open_Source_LLMs.pdf)  
-**Presentation Slides:** [slides/Diabetes_RAG_Presentation.pdf](slides/Diabetes_RAG_Presentation.pdf)
+**Presentation Slides:** [slides/Diabetes_RAG_Presentation](https://youtu.be/jxGDuHZlGH0?si=g0ekO1GufbB5AwwX)
 
 ## Overview
 A fully reproducible, end-to-end Retrieval-Augmented Generation (RAG) system for patient-facing diabetes education using **only open-source components** deployable on a laptop.
