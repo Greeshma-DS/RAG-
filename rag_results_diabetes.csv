@@ -1,0 +1,137 @@
+question,model,retrieved_ids,answer,retrieval_time_sec,generation_time_sec,answer_length_tokens
+What are the early symptoms of type 2 diabetes?,llama3.1:8b,Symtoms of diabetics.pdf_chunk_3;Symtoms of diabetics.pdf_chunk_2;Symtoms of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_22,"According to the provided documents, people with type 2 diabetes may have no symptoms or mild symptoms that they might not even notice. However, some possible early symptoms include:
+
+* Being thirstier than usual
+* Having to urinate more often
+
+These symptoms are mentioned in the section ""Symptoms of diabetics.pdf_chunk_0"" and also in the section ""Symtoms of diabetics.pdf_chunk_2"" regarding gestational diabetes, which is similar to type 2 diabetes.
+
+Please note that these symptoms can be mild and might not be immediately apparent. Regular testing may be necessary to diagnose type 2 diabetes.",2.355,35.724,92
+What are the early symptoms of type 2 diabetes?,mistral:7b-instruct,Symtoms of diabetics.pdf_chunk_3;Symtoms of diabetics.pdf_chunk_2;Symtoms of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_22,"The early symptoms of type 2 diabetes are generally similar to those of type 1 diabetes but are often less marked and may develop slowly over several years. Common early symptoms include feeling very thirsty, feeling very hungry even after eating, blurred vision, fatigue, sores that do not heal, and frequent infections such as urinary tract or skin infections. However, since many people with type 2 diabetes have no symptoms or symptoms are mild, it is important to be aware of risk factors and talk with your primary health care professional about any symptoms you may be experiencing and ask if you should be tested for diabetes.",6.018,26.801,107
+What are the early symptoms of type 2 diabetes?,phi3:medium,Symtoms of diabetics.pdf_chunk_3;Symtoms of diabetics.pdf_chunk_2;Symtoms of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_22,"Early symptoms of type 2 diabetes often develop slowly over several years and can be mild or even unnoticeable in some cases. However, they are usually similar to those of type 1 diabetes but less marked, including frequent urination, increased thirst, constant hunger, unexpected weight loss, changes in vision, and fatigue. It's important to note that these symptoms may not appear until several years after the onset of the disease due to their mild nature.",6.317,59.547,75
+What are the diagnostic criteria for diabetes according to the documents?,llama3.1:8b,Treatment of diabetics.pdf_chunk_12;Treatment of diabetics.pdf_chunk_14;Symtoms of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_13,"According to the provided documents, the diagnostic criteria for diabetes are as follows:
+
+1. **A1C test**:
+	* An A1C level of 6.5% or higher on two separate tests means that you have diabetes.
+2. **Random blood sugar test**:
+	* A blood sugar level of 200 milligrams per deciliter (mg/dL) — 11.1 millimoles per liter (mmol/L) — or higher suggests diabetes.
+3. **Fasting blood sugar test**:
+	* A fasting blood sugar level of 126 mg/dL (7 mmol/L) or higher on two separate tests means that you have diabetes.
+4. **Glucose tolerance test**:
+	* A blood sugar level less than 140 mg/dL (7.8 mmol/L) is normal.
+	* A reading of more than 200 mg/dL (11.1 mmol/L) after two hours means you have diabetes.
+
+Note that for prediabetes, the criteria are:
+
+* **A1C test**: An A1C between 5.7% and 6.4%
+* **Fasting blood sugar test**: A fasting blood sugar level from 100 to 125 mg/dL (5.6 to 6.9 mmol/L)
+
+These criteria indicate the presence of diabetes or prediabetes based on blood sugar levels measured by various tests.",6.618,61.138,174
+What are the diagnostic criteria for diabetes according to the documents?,mistral:7b-instruct,Treatment of diabetics.pdf_chunk_12;Treatment of diabetics.pdf_chunk_14;Symtoms of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_13,"According to the provided documents, the diagnostic criteria for diabetes include:
+
+1. For Type 1 and Type 2 diabetes, an A1C (glycated hemoglobin) test of 6.5% or higher on two separate tests indicates diabetes. An A1C between 5.7% and 6.4% indicates prediabetes.
+
+2. For Type 2 diabetes, a random blood sugar level of 200 milligrams per deciliter (mg/dL) or higher suggests diabetes. A fasting blood sugar level from 126 mg/dL or higher on two separate tests also indicates diabetes. Fasting means that no food has been consumed for at least 8 hours before the test.
+
+3. For Type 1 diabetes, symptoms such as unexplained weight loss, increased thirst and urination, fatigue, and blurred vision may also be diagnostic, especially in children or adults with a sudden onset of these symptoms.
+
+4. For gestational diabetes, testing is usually done early in pregnancy for women at high risk, and sometime during the second trimester for those at average risk.",6.184,32.601,157
+What are the diagnostic criteria for diabetes according to the documents?,phi3:medium,Treatment of diabetics.pdf_chunk_12;Treatment of diabetics.pdf_chunk_14;Symtoms of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_13,"According to the provided documents, there are several ways to diagnose diabetes:
+
+1. The A1C test shows your average blood sugar level for the past 2-3 months. If your A1C level is 6.5% or higher on two separate tests, it indicates that you have diabetes. An A1C between 5.7% and 6.4% suggests prediabetes.
+
+2. The random blood sugar test measures the glucose levels in a sample taken at any time of day, regardless of your eating habits on that particular day. If this level is 200 mg/dL (11.1 mmol/L) or higher, it suggests diabetes.
+
+3. The fasting blood sugar test involves taking a sample after an overnight fast (no food intake the previous night). A result less than 100 mg/dL (5.6 mmol/L) is normal. A reading between 100 and 125 mg/dL (5.6 to 6.9 mmol/L) indicates prediabetes, while a level of 126 mg/dL (7 mmol/L) or higher on two separate tests confirms diabetes.
+
+4. The glucose tolerance test starts with an overnight fasting blood sugar measurement. After that, you drink a sugary liquid and your blood sugar levels are tested regularly for the next two hours. A level less than 140 mg/dL (7.8 mmol/L) is normal; anything between 140 and 199 mg/dL (7.8 to 11.0 mmol/L) indicates prediabetes, and a reading of more than 200 mg/dL (11.1 mmol/L) after two hours suggests diabetes.",4.136,124.179,223
+How is HbA1c used to monitor blood glucose control?,llama3.1:8b,Treatment of diabetics.pdf_chunk_17;Treatment of diabetics.pdf_chunk_18;Treatment of diabetics.pdf_chunk_19;Treatment of diabetics.pdf_chunk_13,"HbA1c (also known as glycated hemoglobin) is used to measure the average blood sugar level over the past 2-3 months by measuring the percentage of hemoglobin with sugar attached. It's a reliable indicator of how well diabetes treatment plan is working overall, and it can show whether blood sugar levels have been in the target range.
+
+When HbA1c levels are:
+
+* Below 5.7%, it indicates normal blood glucose control.
+* Between 5.7% and 6.4%, it indicates prediabetes.
+* 6.5% or higher, it confirms diabetes diagnosis on two separate tests.
+
+In addition, A1C testing is used to monitor the effectiveness of treatment plans and make necessary adjustments, such as changing oral medications, insulin regimens, or meal plans.",6.252,31.012,116
+How is HbA1c used to monitor blood glucose control?,mistral:7b-instruct,Treatment of diabetics.pdf_chunk_17;Treatment of diabetics.pdf_chunk_18;Treatment of diabetics.pdf_chunk_19;Treatment of diabetics.pdf_chunk_13,"The provided documents show that HbA1c is used to monitor blood glucose control by measuring the percentage of blood sugar attached to hemoglobin, which indicates the average blood sugar level for the past 2 to 3 months. This test provides insights into how well a diabetes treatment plan is working overall and may signal the need for a change in oral drugs, insulin regimen, or meal plan if the A1C level is higher than the target goal, which can vary depending on various factors such as age, other medical conditions, and ability to feel when blood sugar is low.",10.333,23.071,99
+How is HbA1c used to monitor blood glucose control?,phi3:medium,Treatment of diabetics.pdf_chunk_17;Treatment of diabetics.pdf_chunk_18;Treatment of diabetics.pdf_chunk_19;Treatment of diabetics.pdf_chunk_13,"The HbA1c test measures the percentage of blood sugar attached to hemoglobin, which reflects average blood sugar levels over the past 2 to 3 months. For most people with diabetes, an A1C target below 7% is recommended by the American Diabetes Association. If the HbA1c level is higher than this target, it may indicate a need for changes in treatment plans such as adjustments in oral drugs, insulin regimen or meal plan.",5.93,46.046,72
+What are common complications of long-term uncontrolled diabetes?,llama3.1:8b,Symtoms of diabetics.pdf_chunk_3;Causes of diabites .pdf_chunk_4;Symtoms of diabetics.pdf_chunk_0;Prevention of diabetics .pdf_chunk_0,"The provided documents do not contain enough information about the specific complications that occur with long-term uncontrolled diabetes. However, I can provide some general information based on my expertise as a medical assistant specialized in diabetes.
+
+Long-term uncontrolled diabetes can lead to various complications, including:
+
+1. **Diabetic Neuropathy**: Damage to nerves due to high blood sugar levels, which can cause numbness, tingling, and pain in the hands and feet.
+2. **Foot Ulcers and Amputations**: Poor blood flow and nerve damage can lead to foot ulcers that may not heal properly, potentially resulting in amputation.
+3. **Kidney Damage (Nephropathy)**: High blood sugar levels can damage the kidneys over time, leading to kidney failure or end-stage renal disease.
+4. **Blindness (Retinopathy)**: Uncontrolled diabetes can cause damage to the blood vessels in the eyes, leading to blindness.
+5. **Heart Disease and Stroke**: Diabetes increases the risk of heart disease and stroke due to high blood sugar levels damaging blood vessels over time.
+6. **Gum Disease and Tooth Loss**: Uncontrolled diabetes can lead to gum disease and tooth loss due to poor blood flow and immune system dysfunction.
+
+These are just a few examples, but it's essential for individuals with uncontrolled diabetes to work closely with their healthcare providers to manage their condition and prevent these complications.
+
+Please note that the provided documents do not contain detailed information about long-term complications of uncontrolled diabetes. If you need more specific information or guidance, I would recommend consulting reputable sources or a qualified healthcare professional.",3.961,44.406,249
+What are common complications of long-term uncontrolled diabetes?,mistral:7b-instruct,Symtoms of diabetics.pdf_chunk_3;Causes of diabites .pdf_chunk_4;Symtoms of diabetics.pdf_chunk_0;Prevention of diabetics .pdf_chunk_0,"Common complications of long-term uncontrolled diabetes include heart disease and stroke, nerve damage (diabetic neuropathy), foot problems, eye disease that can lead to low vision or blindness, gum disease, and other dental problems. These complications can result from the damaging effects of high blood sugar on various organs and tissues over time. It's important for individuals with diabetes to manage their condition effectively to prevent these complications.",4.681,16.978,67
+What are common complications of long-term uncontrolled diabetes?,phi3:medium,Symtoms of diabetics.pdf_chunk_3;Causes of diabites .pdf_chunk_4;Symtoms of diabetics.pdf_chunk_0;Prevention of diabetics .pdf_chunk_0,"Common complications of long-term uncontrolled diabetes include heart disease and stroke due to damaged blood vessels; neuropathy (nerve damage) affecting feet, limbs, and other organs such as the heart; serious foot problems from nerve damage and poor blood flow leading to pain or infections that can make it difficult to walk; eye diseases which could lead to low vision and blindness.",4.293,45.216,61
+What lifestyle changes are recommended for type 2 diabetes management?,llama3.1:8b,Prevention of diabetics .pdf_chunk_3;Treatment of diabetics.pdf_chunk_1;Treatment of diabetics.pdf_chunk_25;Treatment of diabetics.pdf_chunk_0,"According to the context, lifestyle changes can help manage type 2 diabetes, including:
+
+* Consuming healthy meals and beverages
+* Limiting calories if they have overweight or obesity
+* Getting physical activity (such as brisk walking for at least 150 minutes per week)
+* Incorporating strength training exercises (at least two days a week)
+* Spending less time sitting still and getting up to move around every 30 minutes
+
+Additionally, maintaining regular aerobic exercise along with strength training can help control blood sugar more effectively.",4.818,21.837,85
+What lifestyle changes are recommended for type 2 diabetes management?,mistral:7b-instruct,Prevention of diabetics .pdf_chunk_3;Treatment of diabetics.pdf_chunk_1;Treatment of diabetics.pdf_chunk_25;Treatment of diabetics.pdf_chunk_0,"The provided documents recommend several lifestyle changes for managing type 2 diabetes:
+1. Consuming healthy meals and beverages.
+2. Limiting calorie intake if overweight or obese.
+3. Getting regular physical activity, with a recommendation of at least 150 minutes of moderate aerobic exercise per week and at least two days of strength training exercises.
+4. Minimizing sedentary behavior by moving around for a few minutes every 30 minutes when awake.
+5. Identifying oneself as having diabetes, wearing a tag or bracelet, keeping a glucagon kit nearby in case of low blood sugar emergencies, and educating loved ones on how to use it.
+6. Scheduling yearly physicals and regular eye exams for diabetes-related complications and other medical problems screening.",4.049,87.322,118
+What lifestyle changes are recommended for type 2 diabetes management?,phi3:medium,Prevention of diabetics .pdf_chunk_3;Treatment of diabetics.pdf_chunk_1;Treatment of diabetics.pdf_chunk_25;Treatment of diabetics.pdf_chunk_0,"The suggested lifestyle changes for managing Type 2 Diabetes include consuming healthy meals and beverages, limiting calories if one is overweight or obese, and engaging in regular physical activity. It's recommended to aim for at least 150 minutes of moderate aerobic exercise a week and incorporate strength training exercises twice a week as well. Regularly breaking up prolonged periods of sitting with short bouts of movement every half hour can also contribute positively.",5.65,127.592,73
+Which medications are commonly used as first-line treatment for type 2 diabetes?,llama3.1:8b,Treatment of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_6;Treatment of diabetics.pdf_chunk_20;Treatment of diabetics.pdf_chunk_7,"According to the provided documents, metformin is generally the first drug prescribed for type 2 diabetes (see Treatment of diabetics.pdf_chunk_6 and Treatment of diabetics.pdf_chunk_7). This medication helps the liver make less glucose and improves insulin use in the body.
+
+Additionally, SGLT2 inhibitors may be used as a treatment option for type 2 diabetes. These medications work by preventing the kidneys from reabsorbing filtered sugar into the blood (see Treatment of diabetics.pdf_chunk_20).
+
+Therefore, the commonly used first-line treatments for type 2 diabetes are:
+
+1. Metformin
+2. SGLT2 inhibitors",4.807,84.75,87
+Which medications are commonly used as first-line treatment for type 2 diabetes?,mistral:7b-instruct,Treatment of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_6;Treatment of diabetics.pdf_chunk_20;Treatment of diabetics.pdf_chunk_7,The first-line medication commonly used for type 2 diabetes is Metformin. This information can be found in both [Treatment of Diabetics.pdf_chunk_6] and [Treatment of Diabetics.pdf_chunk_20].,6.355,59.852,25
+Which medications are commonly used as first-line treatment for type 2 diabetes?,phi3:medium,Treatment of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_6;Treatment of diabetics.pdf_chunk_20;Treatment of diabetics.pdf_chunk_7,Metformin is generally the first drug prescribed for Type 2 Diabetes. It helps your liver produce less glucose and enhances insulin usage in your body. Metformin can also contribute to weight loss.,6.247,44.364,32
+What is diabetic neuropathy and how is it typically managed?,llama3.1:8b,Prevention of diabetics .pdf_chunk_0;Treatment of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_24;Treatment of diabetics.pdf_chunk_15,"According to the provided documents, Diabetic Neuropathy is nerve damage that can result from diabetes. Managing your diabetes can help prevent nerve damage that affects your feet and limbs.
+
+The document does not provide extensive information on the management of diabetic neuropathy, but it mentions that managing your diabetes can help prevent nerve damage. This implies that good blood sugar control through medications, diet, and exercise is crucial in preventing or slowing down the progression of diabetic neuropathy. However, specific treatment options for diabetic neuropathy are not mentioned.
+
+To get a more comprehensive answer, I would recommend consulting additional sources or speaking with a medical professional.",5.763,44.525,106
+What is diabetic neuropathy and how is it typically managed?,mistral:7b-instruct,Prevention of diabetics .pdf_chunk_0;Treatment of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_24;Treatment of diabetics.pdf_chunk_15,"Diabetic Neuropathy is nerve damage that can result from diabetes. It is typically managed by effectively managing diabetes through various strategies such as maintaining blood glucose, blood pressure, and cholesterol levels, not smoking, getting regular foot checkups, having dilated eye exams at least once a year, and making healthy lifestyle choices like consuming a balanced diet, staying active, and maintaining a healthy weight. The provided documents do not mention specific medications for managing diabetic neuropathy.",6.259,21.34,75
+What is diabetic neuropathy and how is it typically managed?,phi3:medium,Prevention of diabetics .pdf_chunk_0;Treatment of diabetics.pdf_chunk_0;Treatment of diabetics.pdf_chunk_24;Treatment of diabetics.pdf_chunk_15,"Diabetic neuropathy refers to nerve damage that can result from diabetes. This condition may affect different parts of the body as there are different types of nerve damage. The management of this condition typically involves effective control of one's diabetes, which includes regular monitoring and regulation of blood glucose levels.",6.237,47.313,50
+How can patients reduce their risk of hypoglycemia?,llama3.1:8b,Prevention of diabetics .pdf_chunk_3;Prevention of diabetics .pdf_chunk_0;Treatment of diabetics.pdf_chunk_7;Prevention of diabetics .pdf_chunk_1,"According to the provided documents, patients can reduce their risk of hypoglycemia by:
+
+* Following their meal plan
+* Balancing their physical activity, food, and medicines
+* Testing their blood glucose regularly
+
+This is mentioned in [Prevention of diabetics .pdf_chunk_0] under the section ""Low Blood Glucose (Hypoglycemia)"".",6.426,23.943,47
+How can patients reduce their risk of hypoglycemia?,mistral:7b-instruct,Prevention of diabetics .pdf_chunk_3;Prevention of diabetics .pdf_chunk_0;Treatment of diabetics.pdf_chunk_7;Prevention of diabetics .pdf_chunk_1,"Patients can reduce their risk of hypoglycemia by following their meal plan and balancing physical activity, food, and medicines. Regular blood glucose testing can also help prevent hypoglycemia.",5.775,15.382,28
+How can patients reduce their risk of hypoglycemia?,phi3:medium,Prevention of diabetics .pdf_chunk_3;Prevention of diabetics .pdf_chunk_0;Treatment of diabetics.pdf_chunk_7;Prevention of diabetics .pdf_chunk_1,"To reduce the risk of hypoglycemia, patients should follow their meal plan and balance physical activity, food, and medicines. Regular blood glucose testing can also help in preventing low blood sugar levels. It's crucial to manage diabetes effectively as it can lead to nerve damage that affects the feet, limbs, heart, eyes, kidne",4.938,44.383,53
+What dietary patterns are recommended for people with diabetes?,llama3.1:8b,Treatment of diabetics.pdf_chunk_15;Prevention of diabetics .pdf_chunk_7;Treatment of diabetics.pdf_chunk_1;Treatment of diabetics.pdf_chunk_0,"According to the provided information, for people with diabetes, it is recommended to follow a healthy-eating plan that focuses on:
+
+* More fruits
+* Vegetables
+* Lean proteins
+* Whole grains
+
+These foods are high in nutrition and fiber and low in fat and calories. Additionally, it's suggested to cut down on saturated fats, refined carbohydrates, and sweets.
+
+A registered dietitian can help create a personalized meal plan that fits an individual's health goals, food preferences, and lifestyle, which may include carbohydrate counting for those with type 1 diabetes or using insulin as part of their treatment.",6.367,27.777,97
+What dietary patterns are recommended for people with diabetes?,mistral:7b-instruct,Treatment of diabetics.pdf_chunk_15;Prevention of diabetics .pdf_chunk_7;Treatment of diabetics.pdf_chunk_1;Treatment of diabetics.pdf_chunk_0,"The provided documents recommend that people with diabetes focus their diet on more fruits, vegetables, lean proteins, and whole grains, which are high in nutrition and fiber and low in fat and calories. They also advise cutting down on saturated fats, refined carbohydrates, and sweets. A registered dietitian can help create a meal plan that fits an individual's health goals, food preferences, and lifestyle, which may include carbohydrate counting, especially for those with type 1 diabetes or using insulin as part of their treatment. Additionally, the documents suggest dividing up the plate to include one-half fruit and nonstarchy vegetables, one-quarter whole grains, and one-quarter protein-rich foods.",5.964,24.294,106
+What dietary patterns are recommended for people with diabetes?,phi3:medium,Treatment of diabetics.pdf_chunk_15;Prevention of diabetics .pdf_chunk_7;Treatment of diabetics.pdf_chunk_1;Treatment of diabetics.pdf_chunk_0,"The recommended dietary pattern for individuals with diabetes is one that includes a healthy-eating plan designed to control blood sugar levels. This involves focusing the diet on nutritious foods such as fruits, vegetables, lean proteins, and whole grains which are high in fiber and low in fat and calories. It's also suggested to reduce intake of saturated fats, refined carbohydrates, and sweets.",5.969,45.009,62
+How does insulin resistance contribute to the development of type 2 diabetes?,llama3.1:8b,Causes of diabites .pdf_chunk_1;Causes of diabites .pdf_chunk_0;Causes of diabites .pdf_chunk_5;Causes of diabites .pdf_chunk_6,"According to the provided context, insulin resistance contributes to the development of type 2 diabetes in two ways:
+
+1. The body's cells don't respond well to insulin (insulin resistance), which means they can't effectively use glucose from the blood.
+2. As a result, there isn't enough insulin to balance blood glucose levels, leading to an increase in blood glucose levels.
+
+This is explicitly stated in several sections of the context, including [Causes of diabites .pdf_chunk_0], [Causes of diabites .pdf_chunk_5], and [Causes of diabites .pdf_chunk_6].",5.013,74.527,84
+How does insulin resistance contribute to the development of type 2 diabetes?,mistral:7b-instruct,Causes of diabites .pdf_chunk_1;Causes of diabites .pdf_chunk_0;Causes of diabites .pdf_chunk_5;Causes of diabites .pdf_chunk_6,"Insulin resistance contributes to the development of type 2 diabetes by causing the cells in the muscles, fat, and liver to not respond well to insulin. This condition results in the body's pancreas producing more insulin to compensate, but eventually, it cannot produce enough insulin to balance blood glucose levels, leading to an increase in blood glucose levels and the development of type 2 diabetes.",5.773,20.773,65
+How does insulin resistance contribute to the development of type 2 diabetes?,phi3:medium,Causes of diabites .pdf_chunk_1;Causes of diabites .pdf_chunk_0;Causes of diabites .pdf_chunk_5;Causes of diabites .pdf_chunk_6,"Insulin resistance is a condition where the body's cells become less responsive to insulin. Insulin is necessary for glucose (blood sugar) to enter cells and be used as energy. When there are issues with insulin production or when the body develops insulin resistance, it results in higher blood glucose levels because not enough glucose can get into the cells. This imbalance leads to type 2 diabetes.",6.367,51.382,66
